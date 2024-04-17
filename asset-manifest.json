@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/newtwo/client/static/css/main.1720e838.css",
+    "main.js": "/newtwo/client/static/js/main.eb15efe7.js",
+    "static/js/787.d4aba7ab.chunk.js": "/newtwo/client/static/js/787.d4aba7ab.chunk.js",
+    "static/media/hero-bg.jpg": "/newtwo/client/static/media/hero-bg.fa6c455cbec2a3f793f9.jpg",
+    "static/media/airplane.png": "/newtwo/client/static/media/airplane.f5f6f32f0cf48b4ef8f9.png",
+    "index.html": "/newtwo/client/index.html",
+    "main.1720e838.css.map": "/newtwo/client/static/css/main.1720e838.css.map",
+    "main.eb15efe7.js.map": "/newtwo/client/static/js/main.eb15efe7.js.map",
+    "787.d4aba7ab.chunk.js.map": "/newtwo/client/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1720e838.css",
+    "static/js/main.eb15efe7.js"
+  ]
+}
